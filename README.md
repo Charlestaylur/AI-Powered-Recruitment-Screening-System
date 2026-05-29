@@ -2,6 +2,8 @@
 
 > Automated hiring workflow that scores resumes, updates a CRM, and triggers candidate communications so recruiting teams spend less time on admin and more time on decisions.
 
+**Industry:** Recruitment Agencies, HR Departments, Staffing Firms
+
 ## Demo
 
 [Watch the full walkthrough →](https://drive.google.com/file/d/13MaJ9Xzf0DWPbHu-xkXWPG9bcZA35nIi/view?usp=sharing)
@@ -54,7 +56,7 @@ I built an end-to-end recruitment automation system in n8n that handles the enti
 
 ## About
 
-Built by **Charles Emmanuel** — AI & Automation Systems Engineer  
-Lagos, Nigeria | [LinkedIn](https://linkedin.com/in/charles-emmanuel-automation)  
+Built by **Charles Emmanuel** — AI & Automation Systems Engineer
+Lagos, Nigeria | [LinkedIn](https://linkedin.com/in/charles-emmanuel-automation) | charlestaylurr@gmail.com
 
 I build systems that remove repetitive manual work so teams can focus on what actually matters. If your business is losing time or money to broken processes, reach out.
